@@ -1,0 +1,26 @@
+{
+  "name": "strain_js_array_module",
+  "version": "1.0.0",
+  "description": "A simple module that provides functions to manipulate arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reggiestrain/strain_js_array_module.git"
+  },
+  "keywords": [
+    "array",
+    "sort",
+    "average",
+    "sum",
+    "uniq"
+  ],
+  "author": "Reginald Strain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reggiestrain/strain_js_array_module/issues"
+  },
+  "homepage": "https://github.com/reggiestrain/strain_js_array_module#readme"
+}
